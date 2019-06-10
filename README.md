@@ -1,11 +1,7 @@
 # Oboe
 This is a set of bandwidth traces of real video streaming sessions. These traces have been used for evaluations in:
 
-Oboe: Auto-tuning video ABR algorithms to network conditions, 
-
-Zahaib Akhtar*, Yun Seong Nam*, Ramesh Govindan, Sanjay Rao, Jessica Chen, Ethan Katz-Bassett, Bruno Ribeiro, Jibin Zhan, Hui Zhang, 
-
-ACM SIGCOMM, 2018. (*: Both authors contributed equally)
+Oboe: Auto-tuning video ABR algorithms to network conditions, Zahaib Akhtar*, Yun Seong Nam*, Ramesh Govindan, Sanjay Rao, Jessica Chen, Ethan Katz-Bassett, Bruno Ribeiro, Jibin Zhan, Hui Zhang, ACM SIGCOMM, 2018. (*: Both authors contributed equally)
 
 The data corresponds to 571 video sessions. For each session, the bandwidth observed for each downloaded video chunk is provided. For privacy reasons, we do not provide information regarding the clients such as the video publisher or location of the clients.
 
