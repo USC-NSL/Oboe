@@ -15,7 +15,6 @@ For each pair of lines starting at the beginning of the file
 t1 b1
 
 t2 b1
-[two lines]
 
 t1 and t2 represent the start time and end time of a chunk (in milliseconds), and b1 represents the average bandwidth (in Kbps) during the time (t1, t2), and is repeated on both lines.
 
